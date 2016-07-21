@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFC Tansfer Test</string>
+    <string name="takeImage">Take Image to send</string>
+</resources>
